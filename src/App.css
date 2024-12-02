@@ -1,0 +1,10 @@
+.container {
+  text-align: center;
+}
+
+.drop-down {
+  margin-left: 561px;
+  border: 1px solid gray;
+  margin-right: 560px;
+  padding-left: 3px;
+}
